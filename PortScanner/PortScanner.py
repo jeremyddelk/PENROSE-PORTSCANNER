@@ -6,7 +6,7 @@ Not recommended to use in a professional setting.
 
 Future updates(if I don't abandon this project) is further streamlining,
 adding additional options and combining tools to create a more
-optional port scanner.
+optimal port scanner.
 
 Ensure proper module installation before running
 """
@@ -27,8 +27,8 @@ This program is open source, does not collect any data,
 IP Addresses or information, and you may make changes
 to this program at your leisure.
 
-I kindly ask that you do not use this program maliciously,
-and that I am not responsible for consequences following 
+I kindly ask that you do not use this program maliciously.
+I am not responsible for consequences following 
 exploitations, if any, uncovered by this program.
 =====================================================
 PLEASE ENTER 'y' TO ACCEPT.
